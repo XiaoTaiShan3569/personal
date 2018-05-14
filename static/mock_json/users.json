@@ -1,0 +1,29 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "result": "success",
+  "data": [
+    {
+      "userId": "cf37ffbcbaea4a77b6329ed13c4ee91b",
+      "userName": "lijunyong673",
+      "password": "e10adc3949ba59abbe56e057f20f883e",
+      "parentDir": "/ai-cloud/lijunyong673",
+      "training": "/ai-cloud/lijunyong673",
+      "inference": "/ai-cloud/lijunyong673",
+      "role": "admin",
+      "resource": null,
+      "createDate": 1523240201394
+    },
+    {
+      "userId": "98eb56772d944ac6ac71206a834c47e2",
+      "userName": "luhuan",
+      "password": "e10adc3949ba59abbe56e057f20f883e",
+      "parentDir": "/ai-cloud/luhuan",
+      "training": "/ai-cloud/luhuan",
+      "inference": "/ai-cloud/luhuan",
+      "role": "admin",
+      "resource": null,
+      "createDate": 1523240325852
+    }
+  ]
+}

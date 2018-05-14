@@ -1,0 +1,6 @@
+{
+  "code": "0007",
+  "message": "文件夹下存在文件，不允许删除",
+  "result": "error",
+  "data": null
+}

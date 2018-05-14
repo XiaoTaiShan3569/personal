@@ -1,0 +1,28 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "result": "success",
+  "data": [
+    {
+      "imageId": "94cebc6271af4f4da4d0fffa804287c6",
+      "imageName": "ai-tensorflow-gpu",
+      "imageUrl": "10.25.83.76/base-image/aicloud-tensorflow:1.0-gpu",
+      "imageType": "tf",
+      "imageStatus": "00"
+    },
+    {
+      "imageId": "94cebc6271af4f4da4d0fffa804287c9",
+      "imageName": "ai-tensorflow-1.1",
+      "imageUrl": "10.25.83.76/base-image/aicloud-tensorflow:1.1",
+      "imageType": "tf",
+      "imageStatus": "00"
+    },
+    {
+      "imageId": "94cebc6271af4f4da4d0fffa80428732",
+      "imageName": "base-image-tensorflow-1.4.3",
+      "imageUrl": "10.25.83.76/base-image/tensorflow:1.4.3",
+      "imageType": "tf",
+      "imageStatus": "00"
+    }
+  ]
+}

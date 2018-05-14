@@ -1,0 +1,47 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "result": "success",
+  "data": [
+    {
+      "proId": "a45f6357fce64dd595330d7ed0a3817d",
+      "proName": "a0413",
+      "userName": "luhuan",
+      "dirPath": "/ai-cloud/luhuan/a0413",
+      "createDate": 1523584107335,
+      "projectType": "training",
+      "status": "00",
+      "count": 0
+    },
+    {
+      "proId": "73aac93b911b42f8b8150726569b45a6",
+      "proName": "B0413",
+      "userName": "luhuan",
+      "dirPath": "/ai-cloud/luhuan/B0413",
+      "createDate": 1523594744033,
+      "projectType": "training",
+      "status": "00",
+      "count": 0
+    },
+    {
+      "proId": "c4c5587ed23a49dbbc9d045577a64b78",
+      "proName": "c0413",
+      "userName": "luhuan",
+      "dirPath": "/ai-cloud/luhuan/c0413",
+      "createDate": 1523603972958,
+      "projectType": "training",
+      "status": "00",
+      "count": 0
+    },
+    {
+      "proId": "8765ce76c7104244884108c1f7a3038b",
+      "proName": "a0416",
+      "userName": "luhuan",
+      "dirPath": "/ai-cloud/luhuan/a0416",
+      "createDate": 1523870134199,
+      "projectType": "training",
+      "status": "00",
+      "count": 0
+    }
+  ]
+}

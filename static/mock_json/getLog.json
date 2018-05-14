@@ -1,0 +1,35 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "result": "success",
+  "data": [
+    {
+      "timeStamp": 1520055585395,
+      "msg": "npm WARN eslint-config-vue@2.0.2 requires a peer of eslint-plugin-vue@^1.0.0 || ^2.0.0 but none is installed. You must install peer dependencies yourself."
+    },
+    {
+      "timeStamp": 1520056685395,
+      "msg": "7 silly fetchPackageMetaData Please make sure you have the correct access rights"
+    },
+    {
+      "timeStamp": 1520057785395,
+      "msg": "7 silly fetchPackageMetaData /usr/bin/git ls-remote -h -t ssh://git@github.com/date-fns/esm.git"
+    },
+    {
+      "timeStamp": 1520058885395,
+      "msg": "8 verbose stack     at ChildProcess.onexit (/usr/local/lib/node_modules/npm/node_modules/mississippi/node_modules/end-of-stream/index.js:39:36)"
+    },
+    {
+      "timeStamp": 1520099995395,
+      "msg": "7 silly fetchPackageMetaData error for vuex-loading@latest request to https://registry.npm.taobao.org/vuex-loading failed, reason: getaddrinfo ENOTFOUND registry.npm.taobao.org registry.npm.taobao.org:443"
+    },
+    {
+      "timeStamp": 1520099995396,
+      "msg": "8 verbose lifecycle ai_cloud@1.0.0~flow: PATH: /usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/Users/luhuan/Workplace/ai_cloud/node_modules/.bin:/Users/luhuan/anaconda3/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/luhuan/.rvm/bin"
+    },
+    {
+      "timeStamp": 1520099995397,
+      "msg": "17 verbose argv \"/usr/local/bin/node\" \"/usr/local/bin/npm\" \"run\" \"flow\""
+    }
+  ]
+}

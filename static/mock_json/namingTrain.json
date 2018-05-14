@@ -1,0 +1,26 @@
+{
+  "code": "0000",
+  "message": "成功",
+  "result": "success",
+  "data": {
+    "rprojectId": "bcf94ae4483d4c8d8cea819e9b0b89d9",
+    "rprojectName": "f0417",
+    "namespace": "luhuan",
+    "name": "a0413",
+    "codeURL": null,
+    "baseImage": null,
+    "imageType": null,
+    "projectType": "training",
+    "type": "job",
+    "workdir": "/ai-cloud/luhuan/a0413/f0417",
+    "projectDir": "/ai-cloud/luhuan/a0413/",
+    "target": null,
+    "imageUrl": null,
+    "status": "50",
+    "createDate": 1523952543185,
+    "modifyDate": null,
+    "service_base_url": null,
+    "containers": null,
+    "tensorboard": null
+  }
+}

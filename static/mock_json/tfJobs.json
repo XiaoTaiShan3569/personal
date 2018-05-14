@@ -1,0 +1,113 @@
+{
+  "data": {
+    "map": {
+      "tf-job-b171d8ed87f136ef0e15882a3cd423a3": {
+        "id": "tf-job-b171d8ed87f136ef0e15882a3cd423a3",
+        "runId": 2,
+        "userid": "1182671179",
+        "eventId": "ya07fg",
+        "projectId": "7dce139e3ca23bf17efc096d3a48a19b",
+        "projectName": "testid",
+        "numOfPS": 1,
+        "numOfWorker": 1,
+        "isExample": true,
+        "exampleName": "mnist",
+        "codePath": "/caicloud/clever/tensorflow/examples/mnist/dist_mnist.py",
+        "workDir": "/caicloud/clever/tensorflow/examples/mnist",
+        "maxSteps": 500,
+        "logDir": "/caicloud/test358/testid/2",
+        "exportOrNot": true,
+        "exportDir": "/caicloud/test358/output",
+        "saveModelInterval": 600,
+        "saveSummariesSteps": 100,
+        "sync": false,
+        "createTime": "2017-12-01T17:05:35.584+08:00",
+        "scheduleTime": "2017-12-01T17:06:26.906+08:00",
+        "workerLimitation": {
+          "cores": 1,
+          "memory": 2,
+          "gpus": 0
+        },
+        "flags": [],
+        "jobRuntime": {
+          "waitListNo": 0,
+          "status": "success",
+          "currentStep": 500,
+          "startTime": "2017-12-01T17:07:01+08:00",
+          "currentTime": "2017-12-01T17:09:36+08:00",
+          "endTime": "2017-12-01T17:09:36+08:00",
+          "metrics": [
+            {
+              "step": 500,
+              "time": "2017-12-01T17:09:24+08:00",
+              "metrics": [
+                {
+                  "key": "accuracy",
+                  "value": 0.901199996471405
+                }
+              ]
+            }
+          ]
+        },
+        "k8sRunningInfo": {
+          "namespace": "dist-tf-c6117569d20173d70c17cb8ad800ad67"
+        }
+      },
+      "tf-job-8cf95e3e7647d74536227fd38e0c152b": {
+        "id": "tf-job-8cf95e3e7647d74536227fd38e0c152b",
+        "runId": 1,
+        "userid": "1182671179",
+        "eventId": "ul9278",
+        "projectId": "7dce139e3ca23bf17efc096d3a48a19b",
+        "projectName": "testid",
+        "numOfPS": 1,
+        "numOfWorker": 1,
+        "isExample": true,
+        "exampleName": "mnist",
+        "codePath": "/caicloud/clever/tensorflow/examples/mnist/dist_mnist.py",
+        "workDir": "/caicloud/clever/tensorflow/examples/mnist",
+        "maxSteps": 100,
+        "logDir": "/caicloud/test358/testid/1",
+        "exportOrNot": true,
+        "exportDir": "/caicloud/test358/output",
+        "saveModelInterval": 600,
+        "saveSummariesSteps": 100,
+        "sync": false,
+        "createTime": "2017-12-01T17:01:25.782+08:00",
+        "scheduleTime": "2017-12-01T17:02:20.115+08:00",
+        "workerLimitation": {
+          "cores": 1,
+          "memory": 2,
+          "gpus": 0
+        },
+        "flags": [],
+        "jobRuntime": {
+          "waitListNo": 0,
+          "status": "success",
+          "currentStep": 100,
+          "startTime": "2017-12-01T17:02:25+08:00",
+          "currentTime": "2017-12-01T17:03:07+08:00",
+          "endTime": "2017-12-01T17:03:07+08:00",
+          "metrics": [
+            {
+              "step": 100,
+              "time": "2017-12-01T17:02:55+08:00",
+              "metrics": [
+                {
+                  "key": "accuracy",
+                  "value": 0.6187999844551086
+                }
+              ]
+            }
+          ]
+        },
+        "k8sRunningInfo": {
+          "namespace": "dist-tf-9e56bee9608860b5cc4501d17bfdd99e"
+        }
+      }
+    },
+    "total": 2
+  },
+  "err": 0,
+  "msg": null
+}

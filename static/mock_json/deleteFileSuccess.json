@@ -1,0 +1,38 @@
+{
+  "code": "2001",
+  "message": "登录成功",
+  "result": "success",
+  "data": {
+    "userId": "1a526ca923b24072a9202f210ca3c0a8",
+    "userName": "lijunyong",
+    "parentDir": "/ai-cloud/lijunyong",
+    "training": "/ai-cloud/lijunyong/train",
+    "inference": "/ai-cloud/lijunyong/inference",
+    "role": "admin",
+    "resource": [
+      {
+        "roleId": "5b81616845304054b4f86e6f597fbba2",
+        "roleName": "admin",
+        "resource": "userManager"
+      },
+      {
+        "roleId": "db9c788458bb45aab3bfe76245308f75",
+        "roleName": "admin",
+        "resource": "training"
+      },
+      {
+        "roleId": "17b5de13d94d469b8333a946dfd22bdd",
+        "roleName": "admin",
+        "resource": "inference"
+      },
+      {
+        "roleId": "544482a9086b4f9c885e84618e81e907",
+        "roleName": "admin",
+        "resource": "storage"
+      }
+    ],
+    "createDate": 1516260269806
+  },
+  "err": 0,
+  "msg": null
+}
